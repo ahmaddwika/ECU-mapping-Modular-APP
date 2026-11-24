@@ -1,0 +1,9 @@
+#pragma once
+
+#define PC_SERIAL_BAUD 115200
+#define KLINE_BAUD_DEFAULT 10400
+
+#define KLINE_RX_PIN 16
+#define KLINE_TX_PIN 17
+
+#define KLINE_QUIET_MS 20
